@@ -8,7 +8,7 @@ templating. There are lots of other experiments and school work to be found too.
 I started my career in the biotech sector, working primarily on high throughput assay development for kinase targets. 
 After about a decade of that I made the transition to software development, taking classes at Harvard Extension to get 
 my masters in Information Management Systems. One of my classes was based on PHP and Laravel, which started me down the 
-path of PHP development.
+path of PHP development. I am currently transition to a new project written in C#/.NET so the learning journey continues.
 
 I am currently a Lead Engineer at [CivicPlus](https://www.civicplus.com/), live north of Boston and spend my free time 
 with my family, doing some mountain biking and occasionally getting away for dive trip.
